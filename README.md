@@ -7,7 +7,8 @@ This Streamlit web application helps users preprocess and balance datasets effor
 
 ## 🚀 Live Demo
 Experience the deployed app here:  
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?logo=streamlit)]([https://YOUR-DEPLOYED-APP-LINK.streamlit.app](https://synthetic-data-generator-using-smote-app-e2ytw2twzehjuzonyjzgp.streamlit.app/))
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?logo=streamlit)](https://synthetic-data-generator-using-smote-app-e2ytw2twzehjuzonyjzgp.streamlit.app/)
+
 
 ---
 
